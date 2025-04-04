@@ -1,0 +1,12 @@
+{
+  "name": "cloudflare-playwright-example",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cloudflare/playwright": "file:../..",
+    "wrangler": "^4.4.0"
+  }
+}
